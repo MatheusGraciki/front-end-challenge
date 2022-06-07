@@ -66,3 +66,5 @@ Deve-se fazer uma [Publish](https://docs.expo.dev/workflow/publishing/#how-to-pu
 ## Observações
 Ao enviar o desafio você declara que a solução implementada foi 100% feita por você, sem violar nenhuma licença de software de terceiros.
 
+## Credito das imagens 
+BackgroundImage: [Freepik.com](https://br.freepik.com/fotos-gratis/mulher-jovem-atleta-concentrada-fazendo-exercicios-com-um-haltere_7791543.htm#query=fitness&position=5&from_view=keyword)
