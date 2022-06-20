@@ -8,7 +8,22 @@
    
 </p>
 
-> Status do Projeto: Concluido ✔️ O prazo de entrega já expirou e necessito esperar o feedback, posteriormente continuarei atualizando o projeto e postarei na main, por enquanto está na master.
+> Status do Projeto: Em andamento ⚠️ continuarei atualizando o projeto e postarei na main quando concluido, por enquanto está na master.
+
+
+## Tarefas em aberto
+
+:memo: Implementação de um desing melhor e mais condizente utilizando o figma </BR>
+⚫  [projeto com figma](https://www.figma.com/file/hxgawPlmVV1dRFhYPgSp9G/Untitled?node-id=0%3A1)
+
+:memo: Refazer o projeto utilizando o redesign feito via figma
+
+:memo: Alterar Fontes
+
+:memo: Refatorar codigo criando mais componentes e deixando o código mais clean
+
+:memo: Adicionar funções de deletar Salas com usuários inscritos, criar tela para ver Alunos  inscritos em suas aulas.
+
 
 O desafio proposto visa avaliar suas habilidades com o React Native, sendo isso parte do processo seletivo para vaga de desenvolvedor frontend da Switch Dreams.
 
@@ -99,17 +114,6 @@ BackgroundImage: [Freepik.com](https://br.freepik.com/fotos-gratis/mulher-jovem-
 | -------- |--------
 |Teste1235@gmail.com|Teste123|
 
-## Tarefas em aberto
-
-:memo: Adicionar SplashScreen
-
-:memo: Alterar Fontes
-
-:memo: Refatorar codigo criando mais componentes e deixando o código mais clean
-
-:memo: Implementação de um desing melhor e mais condizente com o projeto
-
-:memo: Adicionar funções de deletar Salas com usuários inscritos, criar tela para ver Alunos  inscritos em suas aulas.
 
 ## Dificuldades no projeto
 
