@@ -70,24 +70,6 @@ API: https://switch-gym.herokuapp.com/
 Para iniciar o desafio, crie um fork a partir do presente repositório e inicie seu projeto react native nele. Altere o readme com todas as informações que julgar pertinente para o desafio. Para entregar a sua implementação você deve criar uma PR e inserir no readme um link de um vídeo demonstrativo de todas as telas e do fluxo criado para o projeto.
 
 
-## Avaliação
-
-Avaliaremos as seguintes habilidades
-
-- Nível de conhecimento em Javascript
-- Nível de conhecimento em React Native
-- Nível de conhecimento em consumo de APIs
-- Qualidade do código
-- Utilização do github
-
-## Entrega
-Deve-se fazer uma [Publish](https://docs.expo.dev/workflow/publishing/#how-to-publish) através do Expo para que o aplicativo seja mais facilmente testado, além de deixar o link no readme de um vídeo demonstrando o aplicativo.
-
-## Diferenciais
-- Testes automatizados (para os testes recomenda-se o uso do Jest)
-- Linter
-- Prototipação das telas no Figma
-
 ## Observações
 Ao enviar o desafio você declara que a solução implementada foi 100% feita por você, sem violar nenhuma licença de software de terceiros.
 
