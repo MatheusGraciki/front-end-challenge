@@ -24,19 +24,6 @@
 
 :memo: Adicionar funções de deletar Salas com usuários inscritos, criar tela para ver Alunos  inscritos em suas aulas.
 
-
-O desafio proposto visa avaliar suas habilidades com o React Native, sendo isso parte do processo seletivo para vaga de desenvolvedor frontend da Switch Dreams.
-
-Esperamos que você tenha uma boa noção nos seguintes tópicos:
-
-- HTTP e estrutura básica da web
-- Linguagem de programação Javascript
-- Framework React Native
-- Ferramenta [Expo](https://docs.expo.dev/)
-- Consumo de API
-
-Além disso é sempre interessante estar atento aos padrões usuais de qualidade de código.
-
 ## Problema
 
 A academia Fit Dreams possui uma grande versatilidade de aulas em seu cronograma, sendo que as atividades variam a cada mês. A Fit Dreams acaba de te contratar para desenvolver o frontend de um sistema que organizará a disponibilidade de cada aula. 
